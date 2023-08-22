@@ -1,69 +1,114 @@
 {
     "users": [],
     "data": [
-        {
-            "id": 1,
-            "url": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Water_1_Intro_MainImage_SeanRyanTNCPhotoContest2019.jpg?crop=666%2C0%2C2667%2C2667&wid=300&hei=300&scl=8.89",
-            "title": "LOLOL",
-            "rating": "5.0",
-            "text": "Lake ",
-            "duration": "Mar 4 – 9",
-            "price": "349 night"
-        },
-        {
-            "url": "https://img.artpal.com/165072/7-37-33t.jpg",
-            "title": "Sevierville, Tennessee",
-            "rating": "4.82",
-            "text": "Mountain and lake views",
-            "duration": "Mar 5 – 10",
-            "price": "255 night",
-            "id": 2
-        },
-        {
-            "url": "https://redbuttegarden.org/media/images/Red-Butte-Garden_OakTunnel-500.2e16d0ba.fill-300x300.jpg",
-            "title": "Cassopolis, Michigan",
-            "rating": "4.96",
-            "text": "Lake views",
-            "duration": "Mar 5 – 10",
-            "price": "595 night",
-            "id": 3
-        },
-        {
-            "url": "https://www.putevka.com/img/hotels/hotel/128599/300/20220807032213_2900849.jpg",
-            "title": "Sevierville, Tennessee",
-            "rating": "4.94",
-            "text": "Mountain and park views",
-            "duration": "Mar 18 – 23",
-            "price": "229 night",
-            "id": 5
-        },
-        {
-            "url": "https://www.pommel.ru/includes/image/rent-villa/rv-638/image004-300x300.jpg",
-            "title": "Sevierville, Tennessee",
-            "rating": "4.93",
-            "text": "Mountain views",
-            "duration": "Apr 21 – 26",
-            "price": "199 night",
-            "id": 6
-        },
-        {
-            "url": "https://housing-images.n7net.in/4f2250e8/d97087b07eaffee367cd079a31111277/v0/medium.jpeg",
-            "title": "Osage Beach, Missouri",
-            "rating": "4.85",
-            "text": "Lake and pool views",
-            "duration": "mnmm",
-            "price": "850 night",
-            "id": 7
-        },
-        {
-            "url": "https://housing-images.n7net.in/4f2250e8/d97087b07eaffee367cd079a31111277/v0/medium.jpeg",
-            "title": "LOLOL",
-            "rating": "4.96",
-            "text": "Lake and pool views",
-            "duration": "Mar 3 – 9",
-            "price": "851 night",
-            "id": 8
-        }
+      {
+      "id": 1,
+      "url": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Water_1_Intro_MainImage_SeanRyanTNCPhotoContest2019.jpg?crop=666%2C0%2C2667%2C2667&wid=300&hei=300&scl=8.89",
+      "title": "Chicago, Illinois",
+      "rating": "5.0",
+      "text": "Lake and city views",
+      "duration": "Mar 4 – 9",
+      "price": "349 night"
+    },
+    {
+      "url": "https://img.artpal.com/165072/7-37-33t.jpg",
+      "title": "Sevierville, Tennessee",
+      "rating": "4.82",
+      "text": "Mountain and lake views",
+      "duration": "Mar 5 – 10",
+      "price": "255 night",
+      "id": 2
+    },
+    {
+      "url": "https://redbuttegarden.org/media/images/Red-Butte-Garden_OakTunnel-500.2e16d0ba.fill-300x300.jpg",
+      "title": "Cassopolis, Michigan",
+      "rating": "4.96",
+      "text": "Lake views",
+      "duration": "Mar 5 – 10",
+      "price": "595 night",
+      "id": 3
+    },
+    {
+      "url": "https://www.tropiclook.com/image/d235/villa-emiemi-2fl-2-bedroom-villa-with-terrace-close-to-nai-6188b424ff464d42805a5afd?ver=f668&width=300&height=300",
+      "title": "Tofte, Minnesota",
+      "rating": "4.89",
+      "text": "Beach and lake views",
+      "duration": "Mar 19 – 24",
+      "price": "170 night",
+      "id": 4
+    },
+    {
+      "url": "https://www.putevka.com/img/hotels/hotel/128599/300/20220807032213_2900849.jpg",
+      "title": "Sevierville, Tennessee",
+      "rating": "4.94",
+      "text": "Mountain and park views",
+      "duration": "Mar 18 – 23",
+      "price": "229 night",
+      "id": 5
+    },
+    {
+      "url": "https://www.pommel.ru/includes/image/rent-villa/rv-638/image004-300x300.jpg",
+      "title": "Sevierville, Tennessee",
+      "rating": "4.93",
+      "text": "Mountain views",
+      "duration": "Apr 21 – 26",
+      "price": "199 night",
+      "id": 6
+    },
+    {
+      "url": "https://housing-images.n7net.in/4f2250e8/d97087b07eaffee367cd079a31111277/v0/medium.jpeg",
+      "title": "Osage Beach, Missouri",
+      "rating": "4.85",
+      "text": "Lake and pool views",
+      "duration": "Mar 3 – 8",
+      "price": "850 night",
+      "id": 7
+    },
+    {
+      "url": "https://posrednikov-net.com/galery/tfoto/small/042/39/423999.jpg",
+      "title": "Sevierville, Tennessee",
+      "rating": "4.96",
+      "text": "Mountain views",
+      "duration": "Mar 7 – 12",
+      "price": "$428 night",
+      "id": 8
+    },
+    {
+      "url": "https://www.caribeluxuryhomes.com/wp-content/uploads/2021/07/private-villa-300x300.jpg",
+      "title": "Sevierville, Tennessee",
+      "rating": "4.98",
+      "text": "Mountain and lake views",
+      "duration": "Apr 2 – 7",
+      "price": "585 night",
+      "id": 9
+    },
+    {
+      "url": "https://elbayt.com/assets/uploads/images/14099/c88ea72c7620d82c76180ca97e5242c8/the-crown-300x300.jpg",
+      "title": "Sevierville, Tennessee",
+      "rating": "4.82",
+      "text": "Mountain and lake views",
+      "duration": "Mar 27 – Apr 1",
+      "price": "669 night",
+      "id": 10
+    },
+    {
+      "url": "https://tropki.ru/images/hotels3/-1062193/page/o6508.webp",
+      "title": "Pigeon Forge, Tennessee",
+      "rating": "4.95",
+      "text": "Mountain views",
+      "duration": "Mar 5 – 10",
+      "price": "439 night",
+      "id": 11
+    },
+    {
+      "url": "https://www.hotels.ru/content/images/hotel_static/hotelgallery300x300/133/13380437206.jpg",
+      "title": "Sevierville, Tennessee",
+      "rating": "4.86",
+      "text": "Mountain and lake views",
+      "duration": "Mar 3 – 8",
+      "price": "325 night",
+      "id": 12
+    }
     ],
     "banners": [
         {
